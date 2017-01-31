@@ -1,0 +1,33 @@
+{
+  "name": "patchfoo",
+  "version": "0.0.0",
+  "description": "plain ssb web ui",
+  "dependencies": {
+    "asyncmemo": "^1.0.0",
+    "emoji-named-characters": "^1.0.2",
+    "emoji-server": "^1.0.0",
+    "human-time": "^0.0.1",
+    "hyperscript": "^2.0.2",
+    "lrucache": "^1.0.2",
+    "multicb": "^1.2.1",
+    "pull-cat": "^1.1.11",
+    "pull-paginate": "^1.0.0",
+    "pull-paramap": "^1.2.1",
+    "pull-stream": "^3.5.0",
+    "ssb-avatar": "^0.2.0",
+    "ssb-marked": "^0.6.0",
+    "ssb-mentions": "^0.1.0",
+    "ssb-sort": "^1.0.0",
+    "stream-to-pull-stream": "^1.7.2"
+  },
+  "devDependencies": {
+    "ssb-client": "^4.4.0"
+  },
+  "author": "cel",
+  "homepage": "https://git.scuttlebot.io/%25YAg1hicat%2B2GELjE2QJzDwlAWcx0ML%2B1sXEdsWwvdt8%3D.sha256",
+  "repository": {
+    "type": "git",
+    "url": "ssb://%YAg1hicat+2GELjE2QJzDwlAWcx0ML+1sXEdsWwvdt8=.sha256"
+  },
+  "license": "AGPL-3.0+"
+}

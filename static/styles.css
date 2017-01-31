@@ -1,0 +1,112 @@
+body {
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+section {
+  padding: 1ex;
+}
+
+.composer-actions {
+  text-align: right;
+}
+
+.ssb-post img {
+  max-width: 100%;
+}
+
+.nav-bar {
+  background-color: #039;
+  padding-left: 1em;
+}
+
+.nav-bar a {
+  color: #ed0;
+}
+
+.search-input {
+  color: #efd;
+  background-color: transparent;
+  border: 1px solid black;
+  font-size: inherit;
+}
+
+.paginate {
+  padding-left: 1ex;
+}
+
+footer {
+  font-size: smaller;
+  text-align: center;
+  color: #999;
+  padding: 1ex;
+}
+
+.ssb-avatar-image {
+  width: 2em;
+  height: 2em;
+  vertical-align: top;
+}
+
+.ssb-feed .ssb-avatar-image {
+  width: 4em;
+  height: 4em;
+}
+
+h3.feed-name {
+  padding: 0;
+  margin: 0;
+}
+
+textarea {
+  font: inherit;
+  width: 100%;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+.ssb-id {
+  font-size: .7em;
+  color: #777;
+}
+
+.ssb-timestamp {
+  font-size: smaller;
+}
+
+.msg-header {
+  margin-bottom: .25ex;
+}
+
+.recps {
+  font-size: smaller;
+}
+
+.ssb-msgs {
+  border-spacing: 0;
+  border-bottom: 1px solid #ddd;
+  width: 100%;
+}
+
+.msg-left,
+.msg-main,
+.msg-right {
+  border-top: 1px solid #ddd;
+  vertical-align: top;
+  padding: .5ex;
+}
+
+.msg-main {
+  width: 100%;
+}
+
+.feed-name {
+  padding: .75ex;
+}
+
+.msg-left .ssb-avatar-image {
+  margin-left: .25em;
+  background-color: #efd;
+}
