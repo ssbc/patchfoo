@@ -95,8 +95,11 @@ pre {
 .msg-main,
 .msg-right {
   border-top: 1px solid #ddd;
-  vertical-align: top;
   padding: .5ex;
+}
+
+td {
+  vertical-align: top;
 }
 
 .msg-main {
