@@ -116,3 +116,8 @@ td {
   margin-left: .25em;
   background-color: #efd;
 }
+
+.msg-title {
+  margin: 0;
+  padding: 0;
+}
