@@ -72,6 +72,7 @@ pre {
 .ssb-id {
   font-size: .7em;
   color: #777;
+  text-decoration: none;
 }
 
 .ssb-timestamp {
