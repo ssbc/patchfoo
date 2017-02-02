@@ -30,6 +30,7 @@ section {
   background-color: transparent;
   border: 1px solid black;
   font-size: inherit;
+  width: 24ex;
 }
 
 .paginate {
