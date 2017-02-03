@@ -46,13 +46,14 @@ footer {
 
 .ssb-avatar-image {
   width: 2em;
-  height: 2em;
+  max-height: 2em;
   vertical-align: top;
 }
 
-.ssb-feed .ssb-avatar-image {
+.ssb-feed .ssb-avatar-image,
+.ssb-main .ssb-avatar-image {
   width: 4em;
-  height: 4em;
+  max-height: 8em;
 }
 
 h3.feed-name {
