@@ -112,6 +112,10 @@ td {
   padding: .75ex;
 }
 
+.feed-about {
+  padding-left: .75ex;
+}
+
 .msg-left .ssb-avatar-image {
   margin-left: .25em;
   background-color: #efd;
