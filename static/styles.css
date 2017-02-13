@@ -61,6 +61,10 @@ h3.feed-name {
   margin: 0;
 }
 
+.recps-input {
+  width: 100%;
+}
+
 textarea {
   font: inherit;
   width: 100%;
