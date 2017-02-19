@@ -8,10 +8,6 @@ section {
   padding: 1ex;
 }
 
-.composer-actions {
-  text-align: right;
-}
-
 .ssb-post img {
   max-width: 100%;
   width: 640px;
@@ -118,6 +114,10 @@ td {
 
 .msg-main {
   width: 100%;
+}
+
+.msg-right {
+  text-align: right;
 }
 
 .feed-name {

@@ -4,6 +4,7 @@
   "description": "plain ssb web ui",
   "dependencies": {
     "asyncmemo": "^1.0.0",
+    "busboy": "^0.2.14",
     "emoji-named-characters": "^1.0.2",
     "emoji-server": "^1.0.0",
     "human-time": "^0.0.1",
@@ -11,6 +12,7 @@
     "lrucache": "^1.0.2",
     "multicb": "^1.2.1",
     "pull-cat": "^1.1.11",
+    "pull-hash": "^1.0.0",
     "pull-paginate": "^1.0.0",
     "pull-paramap": "^1.2.1",
     "pull-stream": "^3.5.0",
