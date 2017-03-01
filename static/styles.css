@@ -104,16 +104,17 @@ pre {
   padding: .5ex;
 }
 
+.msg-content {
+  padding: 0 .5ex .5ex 0;
+}
+
 td {
   vertical-align: top;
 }
 
-.msg-main {
-  width: 100%;
-}
-
 .msg-right {
   text-align: right;
+  padding: .2ex .5ex;
 }
 
 .feed-name {
