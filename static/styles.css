@@ -15,8 +15,8 @@ section {
 }
 
 img.ssb-emoji {
-  width: 1em;
   height: 1em;
+  width: auto;
 }
 
 .nav-bar {
