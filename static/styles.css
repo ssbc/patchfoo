@@ -134,3 +134,7 @@ td {
   margin: 0;
   padding: 0;
 }
+
+.mention-id-input {
+  width: 60ex;
+}
