@@ -20,7 +20,7 @@
     "pull-stream": "^3.5.0",
     "ssb-avatar": "^0.2.0",
     "ssb-marked": "^0.6.0",
-    "ssb-mentions": "^0.1.0",
+    "ssb-mentions": "^0.2.0",
     "ssb-sort": "^1.0.0",
     "stream-to-pull-stream": "^1.7.2"
   },
