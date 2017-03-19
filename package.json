@@ -19,7 +19,7 @@
     "pull-paramap": "^1.2.1",
     "pull-stream": "^3.5.0",
     "ssb-avatar": "^0.2.0",
-    "ssb-marked": "^0.6.0",
+    "ssb-marked": "^0.7.1",
     "ssb-mentions": "^0.2.0",
     "ssb-sort": "^1.0.0",
     "stream-to-pull-stream": "^1.7.2"
