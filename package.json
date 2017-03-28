@@ -9,7 +9,7 @@
     "emoji-server": "^1.0.0",
     "human-time": "^0.0.1",
     "hyperscript": "^2.0.2",
-    "lrucache": "^1.0.2",
+    "hashlru": "^2.1.0",
     "mime-types": "^2.1.12",
     "multicb": "^1.2.1",
     "pull-cat": "^1.1.11",
