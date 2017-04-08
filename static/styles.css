@@ -144,3 +144,11 @@ td {
 .mention-id-input {
   width: 60ex;
 }
+
+table.ssb-object {
+  border-collapse: collapse;
+}
+
+table.ssb-object td {
+  border: 1px solid black;
+}
