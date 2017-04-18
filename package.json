@@ -21,12 +21,12 @@
     "ssb-avatar": "^0.2.0",
     "ssb-marked": "^0.7.1",
     "ssb-mentions": "^0.2.0",
+    "ssb-party": "^0.3.0",
     "ssb-sort": "^1.0.0",
     "stream-to-pull-stream": "^1.7.2"
   },
-  "devDependencies": {
-    "ssb-client": "^4.4.0",
-    "ssb-config": "^2.2.0"
+  "scripts": {
+    "start": "ssb-party ."
   },
   "author": "cel",
   "homepage": "https://git.scuttlebot.io/%25YAg1hicat%2B2GELjE2QJzDwlAWcx0ML%2B1sXEdsWwvdt8%3D.sha256",
