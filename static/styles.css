@@ -141,6 +141,10 @@ td {
   padding: 0;
 }
 
+.mentions li {
+  list-style-type: none;
+}
+
 .mention-id-input {
   width: 60ex;
 }
