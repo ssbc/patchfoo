@@ -19,14 +19,10 @@ Plain SSB web UI. Uses HTML forms instead of client-side JS. Designed for use on
 
 ## TODO
 
-- Support more message types (e.g. ferment).
 - Add a way to assist picking feed ids for `@mentions` in composer.
-- Show a list of channels.
 - Add more sophisticated private messages view.
 - Show contents of git repos (cross-develop with [patchbay])
 - Count digs
-- Show followers/followed on feed pages.
-  - Add form for (un)following feeds.
 - Show network status
 - Add UI for using pub invites
 
