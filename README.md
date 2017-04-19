@@ -28,20 +28,22 @@ Plain SSB web UI. Uses HTML forms instead of client-side JS. Designed for use on
 
 ## Install & Run
 
-As a sbot plugin:
 ```sh
-cd ~/.ssb/node_modules
-git clone ssb://%YAg1hicat+2GELjE2QJzDwlAWcx0ML+1sXEdsWwvdt8=.sha256 patchfoo && cd patchfoo
-npm install --production
-sbot plugins.enable patchfoo
-# restart sbot
-```
-
-Or standalone:
-```sh
-git clone ssb://%YAg1hicat+2GELjE2QJzDwlAWcx0ML+1sXEdsWwvdt8=.sha256 patchfoo && cd patchfoo
+git clone ssb://%YAg1hicat+2GELjE2QJzDwlAWcx0ML+1sXEdsWwvdt8=.sha256 patchfoo
+cd patchfoo
 npm install
 npm start
+```
+
+Alternatively, install as an sbot plugin (advanced):
+
+```sh
+cd ~/.ssb/node_modules
+git clone ssb://%YAg1hicat+2GELjE2QJzDwlAWcx0ML+1sXEdsWwvdt8=.sha256 patchfoo
+cd patchfoo
+npm install
+sbot plugins.enable patchfoo
+# restart sbot
 ```
 
 ## Config
