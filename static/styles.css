@@ -114,6 +114,11 @@ pre {
   padding: 0 .5ex .5ex 0;
 }
 
+.composer-actions {
+  text-align: right;
+  padding: .2ex .5ex;
+}
+
 td {
   vertical-align: top;
 }
