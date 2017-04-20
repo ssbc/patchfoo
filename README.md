@@ -46,6 +46,17 @@ sbot plugins.enable patchfoo
 # restart sbot
 ```
 
+## Install extras
+
+To be able to render channels, patchfoo needs the `ssb-query` scuttlebot
+plugin:
+
+```sh
+sbot plugins.install ssb-query
+sbot plugins.enable ssb-query
+# restart sbot
+```
+
 ## Config
 
 Pass config options with args
