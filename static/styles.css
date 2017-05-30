@@ -16,12 +16,12 @@ section {
 
 .ssb-post img {
   max-width: 100%;
-  background-color: #eee;
 }
 
 img.ssb-emoji {
   height: 1em;
   width: auto;
+  border: none;
 }
 
 .nav-bar {
