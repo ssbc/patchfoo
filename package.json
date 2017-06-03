@@ -18,6 +18,7 @@
     "pull-hash": "^1.0.0",
     "pull-hyperscript": "^0.2.2",
     "pull-identify-filetype": "^1.1.0",
+    "pull-kvdiff": "^0.0.1",
     "pull-paginate": "^1.0.0",
     "pull-paramap": "^1.2.1",
     "pull-reader": "^1.2.9",
