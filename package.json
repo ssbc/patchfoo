@@ -15,7 +15,6 @@
     "mime-types": "^2.1.12",
     "multicb": "^1.2.1",
     "pull-cat": "^1.1.11",
-    "pull-concat": "^1.1.1",
     "pull-git-packidx-parser": "^1.0.0",
     "pull-hash": "^1.0.0",
     "pull-hyperscript": "^0.2.2",
