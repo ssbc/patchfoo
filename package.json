@@ -26,7 +26,7 @@
     "pull-stream": "^3.5.0",
     "ssb-contact": "^1.0.0",
     "ssb-marked": "^0.7.1",
-    "ssb-mentions": "github:ssbc/ssb-mentions#emoji",
+    "ssb-mentions": "^0.4.0",
     "ssb-party": "^0.3.0",
     "ssb-sort": "^1.0.0",
     "stream-to-pull-stream": "^1.7.2"
