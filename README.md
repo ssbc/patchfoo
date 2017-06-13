@@ -16,6 +16,7 @@ Plain SSB web UI. Uses HTML forms instead of client-side JS. Designed for use on
 - View public log, private log, user feeds, channels, and search.
 - Paginate views bidirectionally.
 - Compose, preview and publish public and private messages.
+- *and more*
 
 ## TODO
 
@@ -48,12 +49,12 @@ sbot plugins.enable patchfoo
 
 ## Install extras
 
-To be able to render channels, patchfoo needs the `ssb-query` scuttlebot
+To most effectively render things, patchfoo needs the `ssb-backlinks` scuttlebot
 plugin:
 
 ```sh
-sbot plugins.install ssb-query
-sbot plugins.enable ssb-query
+sbot plugins.install ssb-backlinks
+sbot plugins.enable ssb-backlinks
 # restart sbot
 ```
 
