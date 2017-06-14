@@ -16,7 +16,6 @@
     "multicb": "^1.2.1",
     "pull-cat": "^1.1.11",
     "pull-git-packidx-parser": "^1.0.0",
-    "pull-hash": "^1.0.0",
     "pull-hyperscript": "^0.2.2",
     "pull-identify-filetype": "^1.1.0",
     "pull-kvdiff": "^0.0.1",
@@ -27,7 +26,7 @@
     "ssb-contact": "^1.0.0",
     "ssb-marked": "^0.7.1",
     "ssb-mentions": "^0.4.0",
-    "ssb-party": "^0.4.0",
+    "ssb-party": "^0.5.0",
     "ssb-sort": "^1.0.0",
     "stream-to-pull-stream": "^1.7.2"
   },
