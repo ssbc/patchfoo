@@ -8,11 +8,9 @@ section {
   padding: 1ex;
 }
 
-/*
 .symbol {
   font-family: Symbola;
 }
-*/
 
 .ssb-post img {
   max-width: 100%;
@@ -159,4 +157,8 @@ table.ssb-object {
 
 table.ssb-object td {
   border: 1px solid black;
+}
+
+.chess-square-dark {
+  background-color: #ccc;
 }
