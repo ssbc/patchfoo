@@ -26,7 +26,7 @@ section {
   margin: .5rem 0;
 }
 
-.ssb-post-text {
+.ssb-post-text pre, .ssb-post-text pre * {
   overflow-wrap: break-word;
   word-wrap: break-word;
   -ms-word-break: break-all;
