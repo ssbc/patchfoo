@@ -81,7 +81,7 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
 - `blob_base`: base url for links to ssb blobs. default: same as `base`
 - `img_base`: base url for blobs embedded as images. default: same as `base`
 - `emoji_base`: base url for emoji images. default: same as `base`
-- `encode_msgids`: whether to URL-encode message ids. default: `false`
+- `encode_msgids`: whether to URL-encode message ids in local links. default: `true`
 
 [patchbay]: %s9mSFATE4RGyJx9wgH22lBrvD4CgUQW4yeguSWWjtqc=.sha256
 
