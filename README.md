@@ -18,14 +18,10 @@ Plain SSB web UI. Uses HTML forms instead of client-side JS. Designed for use on
 - Compose, preview and publish public and private messages.
 - *and more*
 
-## TODO
+## Joining SSB with Patchfoo
 
-- Add a way to assist picking feed ids for `@mentions` in composer.
-- Add more sophisticated private messages view.
-- Show contents of git repos (cross-develop with [patchbay])
-- Count digs
-- Show network status
-- Add UI for using pub invites
+Find this guide [on github](https://github.com/noffle/sailing-patchfoo) or [on
+SSB](http://git.scuttlebot.io/%25VaSj08AbdhIa4itK4z8Z91G80o2h5OhRLCEEO6MhAcU%3D.sha256).
 
 ## Install & Run
 
@@ -82,6 +78,15 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
 - `img_base`: base url for blobs embedded as images. default: same as `base`
 - `emoji_base`: base url for emoji images. default: same as `base`
 - `encode_msgids`: whether to URL-encode message ids in local links. default: `true`
+
+## TODO
+
+- Add a way to assist picking feed ids for `@mentions` in composer.
+- Add more sophisticated private messages view.
+- Show contents of git repos (cross-develop with [patchbay])
+- Count digs
+- Show network status
+- Add UI for using pub invites
 
 [patchbay]: %s9mSFATE4RGyJx9wgH22lBrvD4CgUQW4yeguSWWjtqc=.sha256
 
