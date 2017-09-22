@@ -20,7 +20,7 @@ Plain SSB web UI. Uses HTML forms instead of client-side JS. Designed for use on
 
 ## Joining SSB with Patchfoo
 
-Find this guide [on github](https://github.com/noffle/sailing-patchfoo) or [on
+Find [this guide](%VaSj08AbdhIa4itK4z8Z91G80o2h5OhRLCEEO6MhAcU=.sha256) [on github](https://github.com/noffle/sailing-patchfoo) or [on
 SSB](http://git.scuttlebot.io/%25VaSj08AbdhIa4itK4z8Z91G80o2h5OhRLCEEO6MhAcU%3D.sha256).
 
 ## Install & Run
