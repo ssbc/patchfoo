@@ -78,6 +78,7 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
 - `img_base`: base url for blobs embedded as images. default: same as `base`
 - `emoji_base`: base url for emoji images. default: same as `base`
 - `encode_msgids`: whether to URL-encode message ids in local links. default: `true`
+- `auth`: HTTP auth password. default: `null` (no password required)
 
 ## TODO
 
