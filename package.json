@@ -28,7 +28,7 @@
     "pull-stream": "^3.5.0",
     "ssb-contact": "^1.0.0",
     "ssb-marked": "^0.7.1",
-    "ssb-mentions": "^0.4.0",
+    "ssb-mentions": "http://localhost:8989/blobs/get/&GKwsJ3ykvOXc24wyNuWBdmnCFpQ+Ltd9ggjoOuOF/Pg=.sha256",
     "ssb-sort": "^1.0.0",
     "stream-to-pull-stream": "^1.7.2"
   },
