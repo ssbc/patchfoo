@@ -23,12 +23,18 @@ Plain SSB web UI. Uses HTML forms instead of client-side JS. Designed for use on
 Find [this guide](%VaSj08AbdhIa4itK4z8Z91G80o2h5OhRLCEEO6MhAcU=.sha256) [on github](https://github.com/noffle/sailing-patchfoo) or [on
 SSB](http://git.scuttlebot.io/%25VaSj08AbdhIa4itK4z8Z91G80o2h5OhRLCEEO6MhAcU%3D.sha256).
 
-## Install & Run
+## Install
+
+Requirements:
+
+- [scuttlebot][]
+- [ssb-npm-registry][]
+- [git-ssb][]
 
 ```sh
 git clone ssb://%YAg1hicat+2GELjE2QJzDwlAWcx0ML+1sXEdsWwvdt8=.sha256 patchfoo
 cd patchfoo
-npm install
+npm install --registry=http://localhost:8043/
 npm start
 ```
 
@@ -91,7 +97,10 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
 - Show network status
 - Add UI for using pub invites
 
+[scuttlebot]: %M0TrM+oJT2i/phUJO/fZ2wkK2AN2FB1xK0tqR7SNj58=.sha256
 [patchbay]: %s9mSFATE4RGyJx9wgH22lBrvD4CgUQW4yeguSWWjtqc=.sha256
+[ssb-npm-registry]: %59m0nJQ/YOnxkPi7QfBphcOtuwCgamUgoVHtBhCEq7k=.sha256
+[git-ssb]: %n92DiQh7ietE+R+X/I403LQoyf2DtR3WQfCkDKlheQU=.sha256
 
 ## License
 
