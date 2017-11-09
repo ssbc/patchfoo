@@ -1,6 +1,6 @@
 {
   "name": "patchfoo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "plain ssb web ui",
   "dependencies": {
     "asyncmemo": "^1.0.0",
