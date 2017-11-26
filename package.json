@@ -27,6 +27,7 @@
     "pull-reader": "^1.2.9",
     "pull-stream": "^3.5.0",
     "ssb-client": "http://localhost:8989/blobs/get/&EAaUpI+wrJM5/ly1RqZW0GAEF4PmCAmABBj7e6UIrL0=.sha256",
+    "ssb-contact": "^1.1.0",
     "ssb-marked": "^0.7.1",
     "ssb-mentions": "http://localhost:8989/blobs/get/&GKwsJ3ykvOXc24wyNuWBdmnCFpQ+Ltd9ggjoOuOF/Pg=.sha256",
     "ssb-sort": "^1.0.0",
