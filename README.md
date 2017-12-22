@@ -72,6 +72,7 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
     "port": 8027,
     "host": "::",
     "filter": "all",
+    "showPrivates": true,
   }
 }
 ```
@@ -87,6 +88,7 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
 - `encode_msgids`: whether to URL-encode message ids in local links. default: `true`
 - `auth`: HTTP auth password. default: `null` (no password required)
 - `filter`: Filter setting. `"all"` to show all messages. `"invert"` to show messages that would be hidden by the default setting. Otherwise the default setting applies, which is so to only show messages authored or upvoted by yourself or by a feed that you you follow. Exceptions are that if you navigate to a user feed page, you will see messages authored by that feed, and if you navigate to a message page, you will see that message - regardless of the filter setting. The `filter` setting may also be specified per-request as a query string parameter.
+- `showPrivates`: Whether or not to show private messages. Default is `true`. Overridden by `filter=all`.
 
 ## TODO
 
