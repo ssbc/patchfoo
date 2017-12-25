@@ -74,6 +74,7 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
     "filter": "all",
     "showPrivates": true,
     "previewVotes": true,
+    "ooo": true,
   }
 }
 ```
@@ -91,6 +92,7 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
 - `filter`: Filter setting. `"all"` to show all messages. `"invert"` to show messages that would be hidden by the default setting. Otherwise the default setting applies, which is so to only show messages authored or upvoted by yourself or by a feed that you you follow. Exceptions are that if you navigate to a user feed page, you will see messages authored by that feed, and if you navigate to a message page, you will see that message - regardless of the filter setting. The `filter` setting may also be specified per-request as a query string parameter.
 - `showPrivates`: Whether or not to show private messages. Default is `true`. Overridden by `filter=all`.
 - `previewVotes`: Whether to preview creating votes/likes/digs (`true`) or publish them immediately (`false`). default: `false`
+- `ooo`: if true, use `ssb-ooo` to try to fetch missing messages in threads. also can set per-request with query string `?ooo=1`. default: `false`
 
 ## TODO
 
