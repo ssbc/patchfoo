@@ -93,6 +93,7 @@ To make config options persistent, set them in `~/.ssb/config`, e.g.:
 - `showPrivates`: Whether or not to show private messages. Default is `true`. Overridden by `filter=all`.
 - `previewVotes`: Whether to preview creating votes/likes/digs (`true`) or publish them immediately (`false`). default: `false`
 - `ooo`: if true, use `ssb-ooo` to try to fetch missing messages in threads. also can set per-request with query string `?ooo=1`. default: `false`
+`codeInTextareas`: if `true`, render markdown code blocks in textareas. if `false`, render them in `pre` tags. default: `false`
 
 ## TODO
 
