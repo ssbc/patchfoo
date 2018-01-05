@@ -2,6 +2,7 @@ body {
   margin: 0 auto;
   font-family: sans-serif;
   font-size: 18px;
+  background-color: #ffffea;
 }
 
 section {
@@ -48,12 +49,15 @@ img.ssb-emoji {
 }
 
 .nav-bar {
-  background-color: #039;
+  background-color: #eaffff;
   padding-left: 1em;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #aeb2db;
 }
 
 .nav-bar a {
-  color: #ed0;
+  color: black;
 }
 
 .search-input {
