@@ -17,6 +17,7 @@
     "multicb": "^1.2.1",
     "pull-box-stream": "^1.0.12",
     "pull-cat": "^1.1.11",
+    "pull-catch": "^1.0.0",
     "pull-hyperscript": "^0.2.2",
     "pull-identify-filetype": "^1.1.0",
     "pull-paginate": "^1.0.0",
