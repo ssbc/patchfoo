@@ -193,3 +193,6 @@ table.ssb-object td {
 .chess-square-dark {
   background-color: #ccc;
 }
+
+.diff-old { background-color: #ffe2dd; }
+.diff-new { background-color: #d1ffd6; }
