@@ -33,6 +33,7 @@
     "ssb-marked": "^0.7.1",
     "ssb-mentions": "http://localhost:8989/blobs/get/&GjuxknqKwJqHznKueFNCyIh52v1woz5PB41vqmoHfyM=.sha256",
     "ssb-sort": "^1.0.0",
+    "ssb-web-resolver": "^1.0.2",
     "stream-to-pull-stream": "^1.7.2",
     "unzip": "^0.1.11"
   },
